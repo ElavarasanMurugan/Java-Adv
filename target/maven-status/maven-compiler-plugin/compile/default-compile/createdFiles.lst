@@ -1,0 +1,6 @@
+com\example\springmvcapp\SpringMvcAppApplication.class
+com\example\springmvcapp\service\WelcomeService.class
+com\example\springmvcapp\model\WelcomeMessage.class
+com\example\springmvcapp\service\WelcomeServiceImpl.class
+com\example\springmvcapp\controller\HomeController.class
+com\example\springmvcapp\view\ViewNames.class
